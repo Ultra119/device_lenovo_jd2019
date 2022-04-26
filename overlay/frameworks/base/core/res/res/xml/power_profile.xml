@@ -134,8 +134,8 @@
         <value>426</value>
         <value>451</value>
     </array>
-    <item name="screen.on">152.118</item>
-    <item name="screen.full">532.322</item>
+    <item name="screen.on.display0">152.118</item>
+    <item name="screen.full.display0">532.322</item>
     <item name="camera.flashlight">275.816</item>
     <item name="camera.avg">831.870</item>
     <item name="video">21.29</item>
