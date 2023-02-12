@@ -48,3 +48,7 @@ PRODUCT_SOONG_NAMESPACES += \
 # WiFi
 PRODUCT_PACKAGES += \
     TargetWifiOverlay
+
+# Set dexopt downgrade threshold or dexopt will fail
+PRODUCT_SYSTEM_PROPERTIES += \
+    pm.dexopt.downgrade_after_inactive_days=5
